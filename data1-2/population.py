@@ -1,6 +1,6 @@
 import numpy as np
 from copy import deepcopy
-from attempt2.individual import Individual
+from individual import Individual
 
 
 class Population:
